@@ -1,0 +1,75 @@
+
+
+{
+    "templates":[
+
+        {
+            "slug":"kendra-lang",
+            "title":"Kendra Lang",
+            "category":"marketing",
+            "date":"January 13, 2025",
+            "img":"https://i.ibb.co/LXhVTMZc/pexels-ash-craig-122861-376464.jpg"
+        },
+
+        {
+            "slug":"daily-fit",
+            "title":"Daily Fit",
+            "category":"fitness",
+            "date":"January 06, 2025",
+            "img":"https://i.ibb.co/LXhVTMZc/pexels-ash-craig-122861-376464.jpg"
+        },
+
+        {
+            "slug":"rosa-blog",
+            "title":"Rosa Blog",
+            "category":"personal",
+            "date":"November 11, 2024",
+            "img":"https://i.ibb.co/LXhVTMZc/pexels-ash-craig-122861-376464.jpg"
+        },
+
+        {
+            "slug":"consult-plex",
+            "title":"Consult Plex",
+            "category":"personal",
+            "date":"October 10, 2024",
+            "img":"https://i.ibb.co/LXhVTMZc/pexels-ash-craig-122861-376464.jpg"
+        },
+
+        {
+            "slug":"su-massage",
+            "title":"Su Massage",
+            "category":"marketing",
+            "date":"October 3, 2024",
+            "img":"https://i.ibb.co/LXhVTMZc/pexels-ash-craig-122861-376464.jpg"
+        },
+
+        {
+            "slug":"muscle-room",
+            "title":"Muscle Room",
+            "category":"fitness",
+            "date":"September 28, 2024",
+            "img":"https://i.ibb.co/LXhVTMZc/pexels-ash-craig-122861-376464.jpg"
+        }
+    ],
+
+    "categories":[
+
+        {
+            "slug":"fitness",
+            "title":"Fitness"
+        },
+
+        {
+            "slug":"personal",
+            "title":"Personal"
+        },
+        {
+            "slug":"marketing",
+            "title":"Marketing"
+        }
+
+
+    ]
+}
+
+
