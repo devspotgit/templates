@@ -11,6 +11,15 @@ window.addEventListener("pageReady", () => {
     })
 
 
+    const resObs = new ResizeObserver((elts)=>{
+        elts.forEach(elt =>{
+            if(elt.target.offsetWidth <= 500)
+                document.querySelector(".screen-size").checked = false
+        })
+    })
+
+    resObs.observe(document.querySelector(".template-demo"))
+
 })
 
 

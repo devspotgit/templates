@@ -221,6 +221,7 @@ a{
     gap:10px;
     align-items:center;
     padding-inline:10px;
+    background-color:var(--baby-powder);
 }
 
 .template-site{
@@ -229,7 +230,8 @@ a{
     width:100%;
     transition:width 1s;
     border-width:0;
-    background-color:var(--baby-powder);
+    background-color:rgba(228, 240, 208, 0.5);
+    
 }
 
 
@@ -240,7 +242,7 @@ a{
     flex-direction:column;
     background-color:var(--tea-green);
     z-index:2;
-    container-type: inline-size;
+    container-type:inline-size;
 }
 
 .mobile, .desktop{
@@ -284,7 +286,7 @@ a{
 
 
 @container(max-width:500px){
-    .mobile{
+    .mobile, .desktop{
         display:none;
     }
 }
